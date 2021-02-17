@@ -1,5 +1,7 @@
 ## Ch1keen
-Linux & Unix Enthusiast, Junior Developer
+:penguin: Linux & Unix Enthusiast, Junior Developer
+
+:coffee: Caffeine Addicted
 
 ### Technology That I love
 - 
