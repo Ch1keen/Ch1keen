@@ -3,7 +3,7 @@
 
 :coffee: Caffeine Addicted
 
-:heart: Feels happy when someone refer me as 
+:heart: Feels happy when someone refer me as hacker.
 
 ### Technology That I love
 - Ruby
