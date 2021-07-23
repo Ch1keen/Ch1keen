@@ -7,6 +7,7 @@
 
 ### Technology That I love
 - Ruby
+- LaTeX
 
 ### Technology That I've been
 - Dart / Flutter
