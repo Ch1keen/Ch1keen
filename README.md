@@ -5,6 +5,8 @@
 
 :heart: Feels happy when someone refer me as hacker.
 
+⌨️ 세벌식 390
+
 ### Technology That I love
 - Ruby, Rails
 - LaTeX
