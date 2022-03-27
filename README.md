@@ -17,7 +17,6 @@
 ### Linux, *BSD
 - [Dotfiles](https://www.github.com/Ch1keen/dotfiles) -> including some Nix/Guix files
 - [OpenBSD Environment](https://www.github.com/Ch1keen/OBSD-Environment)
-- ~Nix / Guix~ Soon be available
 
 ### CONTACT
 - 
