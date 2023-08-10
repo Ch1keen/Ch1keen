@@ -8,6 +8,7 @@
 ⌨️ 세벌식 390
 
 ### Technology That I love
+- Nix(pkgs/OS)
 - Ruby, Rails
 - LaTeX
 
@@ -19,8 +20,6 @@
 - [OpenBSD Environment](https://www.github.com/Ch1keen/OBSD-Environment)
 - [GNU Guix + EXWM](https://github.com/Ch1keen/dotfiles/tree/main/guix/guix-exwm)
 
-### CONTACT
-- 
 
 <!--
 **Ch1keen/Ch1keen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
