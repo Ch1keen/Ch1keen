@@ -5,10 +5,27 @@
 
 :heart: Feels happy when someone refer me as hacker.
 
-⌨️ 세벌식 390
+:keyboard: 세벌식 390
+
+## Technologies / Skills
+
+![spongebob-technology](https://github.com/Ch1keen/Ch1keen/assets/40013212/18b7094d-e79d-4295-8b03-35b020118cb3)
+
+Subject       | I feel familiar with | I tried to do projects  | Tech/Skills that I tried to learn
+------------- | -------------------- | ----------------------- | ---------------------------------
+Programming   | Ruby, Python,        | C/C++[1], TypeScript    | Haskell, OCaml, Java, Dia[1]
+Web Front     | TailwindCSS          | web3.js, React, Next.js |
+Web Back      | Ruby On Rails        | FastAPI, ExpressJS      |
+Mobile App    | Flutter              |                         | Android(Java)
+Environment   | Nix, Docker          | Kubernetes(k3s)         |
+Hacking       | Pwn, Web             |                         | Crypto, Digital Forensics
+Hardware      | | Arduino |
+Miscellaneous | Test Driven Development | | Functional Programming
+
+[1] Dia was a functional programming language which compiles source codes to C++ (private project)
 
 ### Technology That I love
-- Nix(pkgs/OS)
+- Nix(pkgs/OS) / GNU Guix
 - Ruby, Rails
 - LaTeX
 
