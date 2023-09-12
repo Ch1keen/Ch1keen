@@ -1,15 +1,19 @@
 ## Ch1keen
-:penguin: Linux & Unix Enthusiast, Junior Developer
 
-:coffee: Caffeine Addicted
+<h4 align="center">:penguin: Linux & Unix Enthusiast, Junior Developer</p>
 
-:heart: Feels happy when someone refer me as hacker.
+<h4 align="center">:coffee: Caffeine Addicted</p>
 
-:keyboard: 세벌식 390
+<h4 align="center">:heart: Feels happy when someone refer me as hacker.</p>
+
+<h4 align="center">:keyboard: 세벌식 390</p>
 
 ## Technologies / Skills
 
-![spongebob-technology](https://github.com/Ch1keen/Ch1keen/assets/40013212/18b7094d-e79d-4295-8b03-35b020118cb3)
+<div align="center">
+  <img src="https://github.com/Ch1keen/Ch1keen/assets/40013212/18b7094d-e79d-4295-8b03-35b020118cb3">
+</div>
+
 
 <table>
   <thead>
