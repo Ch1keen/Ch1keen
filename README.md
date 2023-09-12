@@ -11,16 +11,99 @@
 
 ![spongebob-technology](https://github.com/Ch1keen/Ch1keen/assets/40013212/18b7094d-e79d-4295-8b03-35b020118cb3)
 
-Subject       | I feel familiar with | I tried to do projects  | Tech/Skills that I tried to learn
-------------- | -------------------- | ----------------------- | ---------------------------------
-Programming   | Ruby, Python,        | C/C++[1], TypeScript    | Haskell, OCaml, Java, Dia[1]
-Web Front     | TailwindCSS          | web3.js, React, Next.js |
-Web Back      | Ruby On Rails        | FastAPI, ExpressJS      |
-Mobile App    | Flutter              |                         | Android(Java)
-Environment   | Nix, Docker          | Kubernetes(k3s)         |
-Hacking       | Pwn, Web             |                         | Crypto, Digital Forensics
-Hardware      | | Arduino |
-Miscellaneous | Test Driven Development | | Functional Programming
+<table>
+  <thead>
+    <tr>
+      <th>Subject</th>
+      <th>I feel familiar with</th>
+      <th>I tried to do projects</th>
+      <th>Tech/Skills that I tried to learn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Programming</th>
+      <td>
+        <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        [1]
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Dia-35BDB2?style=for-the-badge&logo=sketch&logoColor=white">[1]
+      </td>
+    </tr>
+    <tr>
+      <th>Web Front</th>
+      <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
+      <td>
+        <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <th>Web Back</th>
+      <td><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Mobile App</th>
+      <td><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Environment</th>
+      <td>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white">
+      </td>
+      <td><img src="https://img.shields.io/badge/kubernetes(k3s)-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Hardware</th>
+      <td></td>
+      <td><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Hacking</th>
+      <td>
+        <img src="https://img.shields.io/badge/Pwnable-black?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/web_hacking-%230db7ed.svg?style=for-the-badge&logoColor=white">
+      </td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Cryptography-%234DC730?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Digital_Forensics-CC0000?style=for-the-badge&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <th>Miscellaneous</th>
+      <td>Test Driven Development</td>
+      <td></td>
+      <td>Functional Programming</td>
+    </tr>
+  </tbody>
+</table>
+
 
 [1] Dia was a functional programming language which compiles source codes to C++ (private project)
 
