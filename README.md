@@ -1,5 +1,7 @@
 ## Ch1keen
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ch1keen!&fontAlign=80&fontAlignY=40&color=gradient)
+
 <h4 align="center">:penguin: Linux & Unix Enthusiast, Junior Developer</p>
 
 <h4 align="center">:coffee: Caffeine Addicted</p>
