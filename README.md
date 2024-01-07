@@ -3,11 +3,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ch1keen!&fontAlign=80&fontAlignY=40&color=gradient)
 <!-- https://github.com/kyechan99/capsule-render#waving -->
 
-<h4 align="center">:penguin: Linux & Unix Enthusiast, Junior Developer</h4>
+<h4 align="center">:penguin: Linux & Unix Enthusiast</h4>
+
+<h4 align="center">:heart: Technophilia(!)</h4>
 
 <h4 align="center">:coffee: Caffeine Addicted</h4>
 
-<h4 align="center">:heart: Feels happy when someone refer me as hacker.</h4>
+<h4 align="center">:technologist: Security Researcher who love writing code</h4>
 
 <h4 align="center">:keyboard: 세벌식 390</h4>
 
