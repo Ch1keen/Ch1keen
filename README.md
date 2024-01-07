@@ -5,7 +5,7 @@
 
 <h4 align="center">:penguin: Linux & Unix Enthusiast</h4>
 
-<h4 align="center">:heart: Technophilia(!)</h4>
+<h4 align="center">:heart: Technophile</h4>
 
 <h4 align="center">:coffee: Caffeine Addicted</h4>
 
