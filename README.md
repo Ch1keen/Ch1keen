@@ -118,8 +118,9 @@
 
 ### Technology That I love
 - Nix(pkgs/OS) / GNU Guix
+  - I am [a contributor of nixpkgs](https://github.com/orgs/NixOS/people?query=Ch1keen)
 - Ruby, Rails
-- LaTeX
+- LaTeX & Asciidoc
 
 ### Technology That I've been
 - Dart / Flutter
