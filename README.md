@@ -13,6 +13,8 @@
 
 <h4 align="center">:keyboard: 세벌식 390</h4>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ch1keen&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Technologies / Skills
 
 <div align="center">
