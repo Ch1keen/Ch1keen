@@ -15,7 +15,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ch1keen&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ch1keen&theme=onedark&rank=S,AAA,AA,A,B,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technologies / Skills
 
