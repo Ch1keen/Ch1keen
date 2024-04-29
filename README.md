@@ -11,7 +11,7 @@
 
 <h4 align="center">:technologist: Security Researcher who love writing code</h4>
 
-<h4 align="center">:keyboard: 세벌식 390</h4>
+<h4 align="center">:keyboard: <s>세벌식 390</s>신세벌식 P2</h4>
 
 <br />
 
