@@ -119,7 +119,7 @@
 </table>
 
 
-[1] Dia was a functional programming language which compiles source codes to C++ (private project)
+[1] Dia is a functional programming language which compiles source codes to C++ (private project)
 
 ### Technology That I love
 - Nix(pkgs/OS) / GNU Guix
