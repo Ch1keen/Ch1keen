@@ -116,8 +116,8 @@
     <tr>
       <th>Miscellaneous</th>
       <td>Test Driven Development</td>
-      <td></td>
       <td>Functional Programming</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
