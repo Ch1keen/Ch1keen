@@ -47,6 +47,7 @@
         [1]
         <img src=https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white">
       </td>
       <td>
         <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
@@ -100,7 +101,9 @@
     </tr>
     <tr>
       <th>Hacking</th>
-      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/ghidra-FF6600?style=for-the-badge&logoColor=black">
+      </td>
       <td>
         <img src="https://img.shields.io/badge/web_hacking-%230db7ed.svg?style=for-the-badge&logoColor=white">
         <img src="https://img.shields.io/badge/Pwnable-black?style=for-the-badge&logoColor=white">
