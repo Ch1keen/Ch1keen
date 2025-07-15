@@ -17,7 +17,33 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ch1keen&theme=onedark&rank=S,AAA,AA,A,B,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Technologies / Skills
+
+## Vulnerability Disclosure :mag:
+
+<table>
+  <thead>
+    <tr>
+      <th>Product or Service</th>
+      <th>Vulnerability Type</th>
+      <th>Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Adoptium.net</th>
+      <td><a href="https://cwe.mitre.org/data/definitions/601.html">CWE-601: URL Redirection to Untrusted Site ('Open Redirect')</a></td>
+      <td><a href="https://github.com/Ch1keen/Adoptium.net-next-security-advisory">Link</a></td>
+    </tr>
+    <tr>
+      <th>SmallBASIC</th>
+      <td><a href="https://cwe.mitre.org/data/definitions/120.html">CWE-120: Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')</a></td>
+      <td><a href="https://github.com/Ch1keen/smallbasic-vulnerability-1">Link</a></td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Technologies / Skills :robot:
 
 <div align="center">
   <img src="https://github.com/Ch1keen/Ch1keen/assets/40013212/18b7094d-e79d-4295-8b03-35b020118cb3">
