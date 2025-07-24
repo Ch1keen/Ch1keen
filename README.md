@@ -39,6 +39,11 @@
       <td><a href="https://cwe.mitre.org/data/definitions/120.html">CWE-120: Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')</a></td>
       <td><a href="https://github.com/Ch1keen/smallbasic-vulnerability-1">Link</a></td></td>
     </tr>
+    <tr>
+      <th>Pepper Language</th>
+      <td><a href="https://cwe.mitre.org/data/definitions/122.html">CWE-122: Heap-Based Buffer Overflow</a></td>
+      <td><a href="https://github.com/Ch1keen/pepper-lang-buffer-overflow">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
