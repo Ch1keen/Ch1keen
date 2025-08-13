@@ -23,6 +23,7 @@
 <table>
   <thead>
     <tr>
+      <th>ID</th>
       <th>Product or Service</th>
       <th>Vulnerability Type</th>
       <th>Report</th>
@@ -30,17 +31,20 @@
   </thead>
   <tbody>
     <tr>
-      <th>Adoptium.net</th>
+      <th><a href="https://github.com/adoptium/adoptium/security/advisories/GHSA-wfq4-6v32-jrhq">GHSA-wfq4-6v32-jrhq</a><br>(Private)</th>
+      <td>Adoptium.net</td>
       <td><a href="https://cwe.mitre.org/data/definitions/601.html">CWE-601: URL Redirection to Untrusted Site ('Open Redirect')</a></td>
       <td><a href="https://github.com/Ch1keen/Adoptium.net-next-security-advisory">Link</a></td>
     </tr>
     <tr>
-      <th>SmallBASIC</th>
+      <th><a href="https://www.cve.org/CVERecord?id=CVE-2025-50361">CVE-2025-50361</a></th>
+      <td>SmallBASIC</td>
       <td><a href="https://cwe.mitre.org/data/definitions/120.html">CWE-120: Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')</a></td>
       <td><a href="https://github.com/Ch1keen/smallbasic-vulnerability-1">Link</a></td></td>
     </tr>
     <tr>
-      <th>Pepper Language</th>
+      <th><a href="https://www.cve.org/CVERecord?id=CVE-2025-50360">CVE-2025-50360</a></th>
+      <td>Pepper Language</td>
       <td><a href="https://cwe.mitre.org/data/definitions/122.html">CWE-122: Heap-Based Buffer Overflow</a></td>
       <td><a href="https://github.com/Ch1keen/pepper-lang-buffer-overflow">Link</a></td>
     </tr>
